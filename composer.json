@@ -6,7 +6,8 @@
     "psr-4": { "": "src/MarketplaceWebServiceOrders" }
   },
   "require" : {
-    "php": ">=5.3"
+    "php": ">=5.3",
+    "ext-xml": "*"
   },
   "extra" : {
     "branch-alias" : {
