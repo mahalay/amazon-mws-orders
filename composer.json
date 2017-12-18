@@ -1,0 +1,16 @@
+{
+  "name" : "mahalay/amazon-mws-orders",
+  "description" : "Amazon MWS Orders Client Library",
+  "license" : "MIT",
+  "autoload": {
+    "psr-4": { "": "src/MarketplaceWebServiceOrders" }
+  },
+  "require" : {
+    "php": ">=5.3"
+  },
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "20130901.0.0-dev"
+    }
+  }
+}
